@@ -1,4 +1,4 @@
-👋 Hi pī̀ noong, I’m @maduc238
+👋 Hi pī̀ noong, I’m [@maduc238](https://github.com/maduc238)
 
 School of Electronics and Electrical Engineering - Hanoi University of Science and Technology
 
