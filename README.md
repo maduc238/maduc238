@@ -1,6 +1,6 @@
 ### 👋 Hi pī̀ noong, I’m [@maduc238](https://github.com/maduc238)
 
-<img align="right" width="auto" height="200" src="meongu.jpg">
+<img align="right" width="auto" height="150" src="maduc238.JPG">
 
 ### About me ...
 
