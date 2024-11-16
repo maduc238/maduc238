@@ -4,9 +4,9 @@
 
 ### About me ...
 
-- :office: Work at **Hanoi University of Science and Technology**
-- :school: Master student at **School of Electronics and Electrical Engineering - Hanoi University of Science and Technology** - :pencil: **Electronics and Telecommunications**
-- :school: Was a bachelor student at **School of Electronics and Electrical Engineering - Hanoi University of Science and Technology** - :pencil: **Academic Year 2019-2023 | Talented Program in Electronics and Telecommunications**
+- :office: [Now] Work at **Hanoi University of Science and Technology**
+- :school: [Now] Master student at **School of Electronics and Electrical Engineering - Hanoi University of Science and Technology** - :pencil: **Electronics and Telecommunications**
+- :school: Received bachelor's degree at **School of Electronics and Electrical Engineering - Hanoi University of Science and Technology** - :pencil: **Academic Year 2019-2023 | Talented Program in Electronics and Telecommunications**
 - :e-mail: Email **mavietduc@gmail.com**
 - :speech_balloon: Facebook **[Ma Đức](https://www.facebook.com/maduc238)**
 
