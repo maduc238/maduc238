@@ -7,7 +7,7 @@
 - :office: [Now] Work at **Hanoi University of Science and Technology**
 - :school: [Now] Master student at **School of Electronics and Electrical Engineering - Hanoi University of Science and Technology** - :pencil: **Electronics and Telecommunications**
 - :school: Received bachelor's degree at **School of Electronics and Electrical Engineering - Hanoi University of Science and Technology** - :pencil: **Academic Year 2019-2023 | Talented Program in Electronics and Telecommunications**
-- :e-mail: Email **mavietduc@gmail.com**
+- :e-mail: Email **duc.maviet@hust.edu.vn**, **mavietduc@gmail.com**
 - :speech_balloon: Facebook **[Ma Đức](https://www.facebook.com/maduc238)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maduc238&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
